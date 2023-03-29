@@ -15,5 +15,9 @@ nav ul {
 nav ul li {
   display: inline-block;
   padding: 10px 20px;
-  background-color: antiquewhite;
+  background-color: rgb(210, 131, 28);
+}
+nav ul li:hover {
+  transition: 0.2s;
+  opacity: 0.5;
 }
